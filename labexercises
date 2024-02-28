@@ -1,0 +1,3 @@
+name = input("Input your name")
+friend = input("Input your friends name")
+print(friend)
